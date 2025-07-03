@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,java,spring,mysql,postgres,html,css,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,java,spring,mysql,postgres,mongodb,html,css,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 <div align="center">
@@ -46,7 +46,7 @@
 const nam = {
     pronouns: "he" | "him",
     code: ["Java", "Python", "TypeScript", "JavaScript", "HTML", "CSS"],
-    tools: ["Spring Boot", "PostgreSQL", "JWT", "Docker", "React", "Tailwind", "Jest"],
+    tools: ["Spring Boot", "PostgreSQL", "MySQL", "SQL Server", "MongoDB", "JWT", "React", "Tailwind", "Jest"],
     architecture: ["RESTful API", "microservices", "event-driven", "design system pattern"],
     techCommunities: {
         contributor: "Open Source",
@@ -188,12 +188,13 @@ const nam = {
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
