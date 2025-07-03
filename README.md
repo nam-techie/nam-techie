@@ -65,24 +65,25 @@ const nam = {
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🎨 Color Bites</h3>
+        <h3 align="center">🎨 Taranify color</h3>
         <div align="center">
-          <a href="https://github.com/nam-techie/Color_Bites" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-techie&repo=Color_Bites&theme=radical" alt="Color Bites" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/nam-techie/Color_Bites" target="_blank">
-              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-            </a>
-            <a href="https://color-bites.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
-            </a>
-          </p>
-          <p><strong>React • Tailwind • TypeScript</strong></p>
-          <p>Phân tích tâm trạng từ màu sắc và gợi ý ẩm thực/thời trang phù hợp</p>
-        </div>
+  <a href="https://github.com/nam-techie/taranify_color" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-techie&repo=taranify_color&theme=radical" alt="Taranify Color" />
+  </a>
+  <br>
+  <br>
+  <p>
+    <a href="https://github.com/nam-techie/taranify_color" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    </a>
+    <a href="https://taranify-color.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+    </a>
+  </p>
+  <p><strong>React • Tailwind • TypeScript</strong></p>
+  <p>Ứng dụng gợi ý món ăn và nhà hàng phù hợp với tâm trạng người dùng dựa trên phân tích màu sắc.</p>
+</div>
+
       </td>
       <td width="50%">
         <h3 align="center">🐟 Koi Veterinary Service</h3>
