@@ -200,14 +200,6 @@ const nam = {
 
 ---
 
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nam-techie&theme=radical&hide_border=true&bg_color=0D1117&title_color=2BBC8A&text_color=C9D1D9" alt="Coding Activity" />
-</div>
-
----
-
 ## 🎯 Current Goals
 
 - 🔭 Working on **Microservices Architecture** projects
