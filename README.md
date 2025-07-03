@@ -76,7 +76,7 @@ const nam = {
     <a href="https://github.com/nam-techie/taranify_color" target="_blank">
       <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     </a>
-    <a href="https://taranify-color.vercel.app" target="_blank">
+    <a href="https://nam-techie.github.io/taranify_color/" target="_blank">
       <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
     </a>
   </p>
