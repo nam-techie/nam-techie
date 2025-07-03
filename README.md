@@ -10,6 +10,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;React+%2B+SpringBoot+Lover;Java+%7C+TypeScript+Enthusiast;Thực+chiến+dự+án+ứng+dụng;Hãy+cùng+code+một+điều+tuyệt+vời!" alt="Typing SVG" />
 </p>
 
+---
+
 ## 🌟 About Me
 
 - 🧠 I'm passionate about building real-world web applications that solve user-centric problems.
@@ -23,8 +25,8 @@
 ### 🎨 [Color Bites](https://github.com/nam-techie/Color_Bites)
 > Phân tích tâm trạng từ màu sắc và gợi ý ẩm thực/thời trang phù hợp
 
-- Stack: React + Tailwind + TypeScript
-- Tính năng: Trắc nghiệm tâm trạng, bản đồ quán ăn, hệ thống gợi ý món ăn
+- Stack: React + Tailwind + TypeScript  
+- Tính năng: Trắc nghiệm tâm trạng, bản đồ quán ăn, hệ thống gợi ý món ăn  
 - [🌐 color-bites.vercel.app](https://color-bites.vercel.app)
 
 ---
@@ -32,7 +34,7 @@
 ### 🐟 [Koi Veterinary Service](https://github.com/nam-techie/SE1872_KoiVeterinaryService)
 > Hệ thống quản lý dịch vụ thú y cho cá Koi
 
-- Stack: Java + Spring Boot + React
+- Stack: Java + Spring Boot + React  
 - Tính năng: Quản lý lịch hẹn, bác sĩ, khám bệnh & thống kê
 
 ---
@@ -40,7 +42,7 @@
 ### 🧮 [Math Util](https://github.com/nam-techie/math-util)
 > Thư viện mô phỏng toán học sử dụng JUnit & CI/CD
 
-- Stack: Java + Maven + GitHub Actions
+- Stack: Java + Maven + GitHub Actions  
 - Tính năng: Unit Test, DDT, tích hợp CI/CD
 
 ---
@@ -48,18 +50,33 @@
 ### 📧 [Login with Email OTP](https://github.com/nam-techie/login-email)
 > Hệ thống xác thực người dùng qua OTP gửi qua email
 
-- Stack: JavaScript + Node Mailer
+- Stack: JavaScript + Node Mailer  
 - Tính năng: Gửi mã OTP, xác minh & đăng nhập nhanh
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nam-techie&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=nam-techie&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-techie&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nam-techie&count_private=true&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=nam-techie&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-techie&layout=compact&theme=radical" />
+</p>
+
+<!-- Optional Custom GitHub Stats Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/github-custom-stats.png" alt="Custom GitHub Stats" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:nam.dpwork04@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nam-phương-4a3503309"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/nam-techie"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/995694235946844261"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
