@@ -6,10 +6,6 @@
   <img src="https://skillicons.dev/icons?i=react,ts,js,java,spring,mysql,postgres,html,css,git,github,vscode" alt="Tech Stack" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;React+%2B+SpringBoot+Lover;Java+%7C+TypeScript+Enthusiast;Thực+chiến+dự+án+ứng+dụng;Hãy+cùng+code+một+điều+tuyệt+vời!" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🌟 About Me
