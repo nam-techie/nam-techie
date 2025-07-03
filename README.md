@@ -43,17 +43,17 @@
 ## 👨‍💻 A little more about me...
 
 ```javascript
-const thai = {
-    pronouns: "she" | "her",
-    code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-    tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-    architecture: ["microservices", "event-driven", "design system pattern"],
+const nam = {
+    pronouns: "he" | "him",
+    code: ["Java", "Python", "TypeScript", "JavaScript", "HTML", "CSS"],
+    tools: ["Spring Boot", "PostgreSQL", "JWT", "Docker", "React", "Tailwind", "Jest"],
+    architecture: ["RESTful API", "microservices", "event-driven", "design system pattern"],
     techCommunities: {
-        coorganizer: "AfroPython",
-        speaker: "Latinity",
-        mentor: "EducaTRANSforma"
+        contributor: "Open Source",
+        learner: "100DaysOfCode",
+        mentor: null
     },
-    challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+    challenge: "I am doing the #100DaysOfCode challenge focused on backend with Java and Spring Boot"
 }
 ```
 
