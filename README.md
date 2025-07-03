@@ -83,7 +83,6 @@ const nam = {
   <p><strong>React • Tailwind • TypeScript</strong></p>
   <p>Ứng dụng gợi ý món ăn và nhà hàng phù hợp với tâm trạng người dùng dựa trên phân tích màu sắc.</p>
 </div>
-
       </td>
       <td width="50%">
         <h3 align="center">🐟 Koi Veterinary Service</h3>
