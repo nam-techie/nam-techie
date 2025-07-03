@@ -58,12 +58,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nam-techie/nam-techie/main/assets/phuongnam-github-stats.png" alt="Phương Nam GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nam-techie&count_private=true&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=nam-techie&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-techie&layout=compact&theme=radical" />
 </p>
 
-<!-- Bạn có thể thay đổi link hình ảnh nếu bạn đặt file khác trong repo -->
+<!-- Optional Custom GitHub Stats Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/github-custom-stats.png" alt="Custom GitHub Stats" />
+</p>
 
 ---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:nam.dpwork04@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nam-phương-4a3503309"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/nam-techie"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/995694235946844261"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
 
 ## 📬 Contact Me
 
