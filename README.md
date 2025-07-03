@@ -259,8 +259,6 @@ const thai = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
   
   <h3>⭐️ From <a href="https://github.com/nam-techie">nam-techie</a></h3>
-  
-  <p>
-    <i>"Programming isn't about what you know; it's about what you can figure out." – Chris Pine</i>
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=CodeForFee&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+
 </div>
