@@ -121,21 +121,20 @@ const nam = {
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">📧 Login with Email OTP</h3>
-        <div align="center">
-          <a href="https://github.com/nam-techie/login-email" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-techie&repo=login-email&theme=radical" alt="Login Email" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/nam-techie/login-email" target="_blank">
-              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+        <h3 align="center">🩺 Gender Healthcare System</h3>
+          <div align="center">
+            <a href="https://github.com/thepKz/gender-care" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=thepKz&repo=gender-care&theme=radical" alt="Gender Healthcare System" />
             </a>
-          </p>
-          <p><strong>JavaScript • Node Mailer</strong></p>
-          <p>Hệ thống xác thực người dùng qua OTP gửi qua email</p>
-        </div>
+            <br><br>
+            <p>
+            <a href="https://github.com/thepKz/gender-care" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+            </a>
+            </p>
+            <p><strong>React • Node.js • TypeScript • MongoDB</strong></p>
+            <p>Hệ thống quản lý dịch vụ chăm sóc sức khỏe giới tính hiện đại và bảo mật, hỗ trợ người dùng trong việc đặt lịch, tư vấn và quản lý thông tin y tế cá nhân.</p>
+          </div>
       </td>
     </tr>
   </table>
