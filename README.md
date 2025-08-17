@@ -64,7 +64,190 @@ const nam = {
 <div align="center">
   <table>
     <tr>
-    game
+      <td width="50%">
+        <h3 align="center">🎨 Taranify color</h3>
+        <div align="center">
+  <a href="https://github.com/nam-techie/taranify_color" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-techie&repo=taranify_color&theme=radical" alt="Taranify Color" />
+  </a>
+  <br>
+  <br>
+  <p>
+    <a href="https://github.com/nam-techie/taranify_color" target="_blank">
+      <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    </a>
+    <a href="https://nam-techie.github.io/taranify_color/" target="_blank">
+      <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel"/>
+    </a>
+  </p>
+  <p><strong>React • Tailwind • TypeScript</strong></p>
+  <p>Ứng dụng gợi ý món ăn và nhà hàng phù hợp với tâm trạng người dùng dựa trên phân tích màu sắc.</p>
+</div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🐟 Koi Veterinary Service</h3>
+        <div align="center">
+          <a href="https://github.com/nam-techie/SE1872_KoiVeterinaryService" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-techie&repo=SE1872_KoiVeterinaryService&theme=radical" alt="Koi Veterinary Service" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/nam-techie/SE1872_KoiVeterinaryService" target="_blank">
+              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+            </a>
+          </p>
+          <p><strong>Java • Spring Boot • React</strong></p>
+          <p>Hệ thống quản lý dịch vụ thú y cho cá Koi</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🧮 Math Util</h3>
+        <div align="center">
+          <a href="https://github.com/nam-techie/math-util" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-techie&repo=math-util&theme=radical" alt="Math Util" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/nam-techie/math-util" target="_blank">
+              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+            </a>
+          </p>
+          <p><strong>Java • Maven • GitHub Actions</strong></p>
+          <p>Thư viện mô phỏng toán học sử dụng JUnit & CI/CD</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🩺 Gender Healthcare System</h3>
+          <div align="center">
+            <a href="https://github.com/thepKz/gender-care" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=thepKz&repo=gender-care&theme=radical" alt="Gender Healthcare System" />
+            </a>
+            <br><br>
+            <p>
+            <a href="https://github.com/thepKz/gender-care" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+            </a>
+            </p>
+            <p><strong>React • Node.js • TypeScript • MongoDB</strong></p>
+            <p>Hệ thống quản lý dịch vụ chăm sóc sức khỏe giới tính hiện đại và bảo mật, hỗ trợ người dùng trong việc đặt lịch, tư vấn và quản lý thông tin y tế cá nhân.</p>
+          </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nam-techie&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2BBC8A&icon_color=2BBC8A&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-techie&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2BBC8A&text_color=C9D1D9" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nam-techie&theme=radical&hide_border=true&background=0D1117&stroke=2BBC8A&ring=2BBC8A&fire=2BBC8A&currStreakLabel=2BBC8A" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nam-techie&theme=react-dark&bg_color=0D1117&color=2BBC8A&line=2BBC8A&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nam-techie&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💻 Tech Stack & Tools
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 🔭 Working on **Microservices Architecture** projects
+- 🌱 Learning **Cloud Computing** (AWS, Azure)
+- 👯 Looking to collaborate on **Open Source Projects**
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- 📚 Reading: "Clean Architecture" by Robert C. Martin
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+  <a href="mailto:nam.dpwork04@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nam-phương-4a3503309">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/nam-techie">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://discordapp.com/users/995694235946844261">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.instagram.com/pwanm.ie">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+---
+
+## 💭 Developer Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+---
+
+## 🐍 Breakout game
 
 <picture>
   <source
@@ -77,6 +260,9 @@ const nam = {
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
+
+---
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
