@@ -16,23 +16,6 @@ const nam = {
 ```
 
 
-
-##  GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nam-techie&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2BBC8A&icon_color=2BBC8A&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-techie&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2BBC8A&text_color=C9D1D9" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nam-techie&theme=radical&hide_border=true&background=0D1117&stroke=2BBC8A&ring=2BBC8A&fire=2BBC8A&currStreakLabel=2BBC8A" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nam-techie&theme=react-dark&bg_color=0D1117&color=2BBC8A&line=2BBC8A&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-
 ##  Let's Connect!
 
 <div align="center">
@@ -53,33 +36,5 @@ const nam = {
   </a>
 </div>
 
-
-##  Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-
-##  Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</div>
-
-
-##  Breakout game
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
 
 
